@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/itmTran1"
+        android:title="1 Transformación"/>
+
+    <item android:id="@+id/itmTran2"
+        android:title="2 Transformación"/>
+
+    <item android:id="@+id/itmTran3"
+        android:title="3 Tranformación"/>
+
+    <item android:id="@+id/itmSalir"
+        android:title="Salir"/>
+</menu>
